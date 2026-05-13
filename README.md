@@ -8,7 +8,7 @@ _Sistemas de Alto Rendimiento | Ecosistema Java | Infraestructura Cloud_
 
 ## 👨‍💻 Sobre Mí
 
-Soy un apasionado de la tecnología, impulsado por el liderazgo técnico y la ingeniería de software full-stack. Me especializo en la creación de aplicaciones robustas de principio a fin, la optimización de integraciones de sistemas y la dirección de equipos de desarrollo hacia la excelencia técnica. Me desenvuelvo con éxito en entornos donde puedo guiar el talento, tomar decisiones arquitectónicas estratégicas y resolver problemas complejos mediante un diseño escalable.
+Soy un apasionado de la tecnología, impulsado por el liderazgo técnico y la ingeniería de software full-stack. Me especializo en la creación de aplicaciones robustas de end-to-end, la optimización de integraciones de sistemas y la dirección de equipos de desarrollo hacia la excelencia técnica. Me desenvuelvo con éxito en entornos donde puedo guiar el talento, tomar decisiones arquitectónicas estratégicas y resolver problemas complejos mediante un diseño escalable.
 
 ### 📐 Liderazgo y Experiencia Técnica
 * **Liderazgo:** Mentoría de equipos, hojas de ruta técnicas, gestión de stakeholders y liderazgo ágil.
