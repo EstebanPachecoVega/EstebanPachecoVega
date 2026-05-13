@@ -11,10 +11,10 @@ _Sistemas de Alto Rendimiento | Ecosistema Java | Infraestructura Cloud_
 Soy un apasionado de la tecnología, impulsado por el liderazgo técnico y la ingeniería de software full-stack. Me especializo en la creación de aplicaciones robustas de principio a fin, la optimización de integraciones de sistemas y la dirección de equipos de desarrollo hacia la excelencia técnica. Me desenvuelvo con éxito en entornos donde puedo guiar el talento, tomar decisiones arquitectónicas estratégicas y resolver problemas complejos mediante un diseño escalable.
 
 ### 📐 Liderazgo y Experiencia Técnica
-Liderazgo: Mentoría de equipos, hojas de ruta técnicas, gestión de stakeholders y liderazgo ágil.
-Arquitectura: Arquitectura Limpia, Arquitectura Hexagonal, Microservicios y diseño orientado a eventos.
-Desarrollo Full Stack: Diseño de sistemas end-to-end, patrones de diseño, orquestación de APIs y UI/UX moderna, Clean Code y pruebas unitarias.
-DevOps: Automatización CI/CD, Infraestructura como Código (IaC) y escalabilidad Cloud Native.
+* **Liderazgo:** Mentoría de equipos, hojas de ruta técnicas, gestión de stakeholders y liderazgo ágil.
+* **Arquitectura:** Arquitectura Limpia, Arquitectura Hexagonal, Microservicios y diseño orientado a eventos.
+* **Desarrollo Full Stack:** Diseño de sistemas end-to-end, patrones de diseño, orquestación de APIs y UI/UX moderna, Clean Code y pruebas unitarias.
+* **DevOps:** Automatización CI/CD, Infraestructura como Código (IaC) y escalabilidad Cloud Native.
 
 ---
 
